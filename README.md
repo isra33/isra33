@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Israel Bulcão!</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Flutter focado em criar aplicações Mobile <strong>Android & iOS</strong> com arquitetura limpa, backend em Dart e integrações robustas.<br>
+  🚀 Desenvolvedor Flutter focado em criar aplicações Mobile <strong>Android & iOS</strong> com arquitetura limpa, usando <strong>Firebase</strong> e <strong>Supabase</strong> como backends principais.<br>
   💻 Apaixonado por tecnologia, aprendizado contínuo e boas práticas de programação.<br>
 </p>
 
