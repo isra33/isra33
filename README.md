@@ -24,22 +24,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
----
-
-## 📈 **Estatísticas GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isra33&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isra33&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
-</p>
 
 ---
 
 ## 📫 **Como me encontrar**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com) <!-- Coloque o link real do seu LinkedIn -->
-📧 **Email:** seuemail@email.com <!-- Troque pelo seu email real -->
+📧 **Email:** israelbulcaodev@gmail.com 
 
 ---
 
