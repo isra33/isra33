@@ -8,14 +8,7 @@
 
 
 ---
-
-## 🚀 **Sobre mim**
-
-🎓 Desenvolvedor autodidata e estudante de tecnologia.  
-💡 Experiência em Flutter, Dart puro, consumo de APIs, organização de projeto e lógica de negócios.  
-🌱 Melhorando cada vez mais habilidades com Firebase e banco de dados.
-
----
+ 
 
 ## 🛠️ **Tecnologias e Ferramentas**
 
