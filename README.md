@@ -24,19 +24,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-
----
-
-## 📌 **Meus Principais Projetos**
-
-| Projeto | Descrição | Link |
-| ------- | --------- | ---- |
-| 🐶 **Gestão Pets** | Sistema de gestão de hospedagem de pets, cadastro de clientes, funcionários e rastreamento. | [Ver repositório](https://github.com/isra33/gestao_pets) |
-| 🔗 **Backend Dart Consumindo API** | Projeto em Dart puro, consumindo APIs externas, exemplo de arquitetura backend. | [Ver repositório](https://github.com/isra33/backend-dart-consumindo-api) |
-| 🏠 **Casa da Lola** | Sistema completo de hospedagem pet com CRUD, controle de check-in/check-out e relatórios. | [Ver repositório](https://github.com/isra33/casa_da_lola_completo) |
-| 📱 **Hospedagem Casa da Lola Final** | Versão final do projeto de hospedagem, com melhorias e revisões. | [Ver repositório](https://github.com/isra33/hospedagem_casa_da_lola_final) |
-| ✅ **Revisão Flutter** | Exercícios de revisão focados em Flutter, listas, operadores e lógica. | [Ver repositório](https://github.com/isra33/revisao_flutter) |
-
 ---
 
 ## 📈 **Estatísticas GitHub**
